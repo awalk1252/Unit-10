@@ -1,0 +1,27 @@
+.box {
+  background-color:yellow;
+}
+.Text1 {
+  color:black;
+}
+
+#Moretext1{
+  color:red;
+}
+
+.Evenmoretext1{
+  color:blue;
+}
+
+#Moretext1 {
+    text-align: center;
+
+}
+
+.Evenmoretext1 {
+    font-size: 200%;
+}
+
+#Moretext1 {
+  font-size:150%;
+}
